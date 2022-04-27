@@ -1,0 +1,5 @@
+Hello and Welcome to Linux Tools for Developers!
+
+Linux Tools for Developers is course 3 in The Linux Foundation's 4-course Specialization, Open Source Software Development, Linux and Git.
+
+Course 2 introduced you to Linux systems, and helped you get comfortable working at the command line. You learned what it’s like to work on Linux systems, and got a good understanding of the essential skills you need when you work on a daily basis with Linux systems. Course 3 is a continuation of the previous course, and will focus on teaching you how to work with tools you need to do your everyday work
